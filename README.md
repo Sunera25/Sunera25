@@ -198,7 +198,7 @@ Hello! I'm Sunera, a dedicated web and mobile developer with a passion for creat
     </td>
     <td align="center" width="96">
       <a href="https://git-scm.com/">
-        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" width="65" height="65" />
+        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" width="50" height="50" />
       </a>
       <br>Git
     </td>
@@ -228,7 +228,7 @@ Hello! I'm Sunera, a dedicated web and mobile developer with a passion for creat
     </td>
     <td align="center" width="96">
       <a href="https://www.jetbrains.com/idea/">
-        <img src="https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png" alt="IntelliJ" width="65" height="65" />
+        <img src="https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png" alt="IntelliJ" width="50" height="50" />
       </a>
       <br>IntelliJ
     </td>
