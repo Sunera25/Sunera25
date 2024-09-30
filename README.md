@@ -277,5 +277,7 @@ Hello! I'm Sunera, a dedicated web and mobile developer with a passion for creat
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
 ---
 [![](https://visitcount.itsvg.in/api?id=Sunera25&icon=0&color=0)](https://visitcount.itsvg.in)
