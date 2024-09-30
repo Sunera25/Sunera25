@@ -277,7 +277,8 @@ Hello! I'm Sunera, a dedicated web and mobile developer with a passion for creat
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<img src="https://raw.githubusercontent.com/Sunera25/Sunera25/output/snake.svg" alt="Snake animation" />
+### 🐍 Watch the snake eating my GitHub contributions
+![snake gif](https://github.com/Sunera25/Sunera25/blob/output/github-contribution-grid-snake.svg)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Sunera25&icon=0&color=0)](https://visitcount.itsvg.in)
