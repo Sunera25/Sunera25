@@ -70,6 +70,12 @@ Hello! I'm Sunera, a dedicated web and mobile developer with a passion for creat
       <br>HTML
     </td>
     <td align="center" width="96">
+      <a href="https://nestjs.com/">
+        <img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="NestJS" width="50" height="50" />
+       </a>
+      <br>CSS
+    </td>
+    <td align="center" width="96">
       <a href="https://reactjs.org/">
         <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
       </a>
@@ -87,14 +93,14 @@ Hello! I'm Sunera, a dedicated web and mobile developer with a passion for creat
        </a>
       <br>NestJS
     </td>
+       <tr>
     <td align="center" width="96">
       <a href="https://expressjs.com/">
         <img src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" alt="Express.js" width="50" height="50" />
       </a>
       <br>Express.js
     </td>
-    <tr>
-     <td align="center" width="96">
+      <td align="center" width="96">
       <a href="https://www.spring.io/">
       <img src="https://user-images.githubusercontent.com/25181517/117201470-f6d56780-adec-11eb-8f7c-e70e376cfd07.png" alt="Apache Tomcat" width="50" height="50" />
         </a>
@@ -247,6 +253,19 @@ Hello! I'm Sunera, a dedicated web and mobile developer with a passion for creat
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sunera25&bg_color=ffffff&color=000000&line=04e61b&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </details>
+
+<!--
+<details>
+  <summary>WakaTime Stats ⏳</summary>
+  <br/>
+  <a href="https://wakatime.com/sunera25">
+    <img src="https://wakatime.com/badge/user/sunera25.svg" alt="Total time coded" />
+  </a>
+  <a href="https://wakatime.com/sunera25">
+    <img src="https://wakatime.com/badge/user/sunera25.svg?style=flat-square&color=blue&label=Time%20Coded" />
+  </a>
+</details>
+-->
 
 <br />
 
