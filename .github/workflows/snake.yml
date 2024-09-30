@@ -1,44 +1,28 @@
-name: Generate Snake
-permissions:
-  contents: write
 
-# Controls when the action will run. This action runs every 6 hours.
+name: Generate snake game
+
 on:
-  schedule:
-    - cron: "0 */6 * * *"
+  schedule: # execute every 12 hours
+    - cron: "* */12 * * *"
   workflow_dispatch:
 
 jobs:
   build:
+    name: Jobs to update datas
     runs-on: ubuntu-latest
-
     steps:
-      # Checkout the repository
-      - uses: actions/checkout@v2
-
-      # Generates the snake
-      - uses: Platane/snk@master
+      # Snake Animation
+      - uses: Sutil/snk@master
         id: snake-gif
         with:
-          github_user_name: Sunera25  # Replace with your GitHub username
-          gif_out_path: dist/github-contribution-grid-snake.gif
-          svg_out_path: dist/github-contribution-grid-snake.svg
+          github_user_name: ${{ github.repository_owner }}
+          svg_out_path: dist/github-contribution-grid-snake2.svg
+          snake_color: 'blue'
 
-      # Check the status of the repository after changes
-      - run: git status
-
-      # Push changes to the 'output' branch
-      - name: Push changes
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: output  # Pushing to 'output' branch, not 'master'
-          force: true
-
-      # Deploy the snake SVG and GIF to GitHub Pages using the 'output' branch
       - uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
-          target_branch: output  # The branch that GitHub Pages serves
-          build_dir: dist        # Directory where the SVG/GIF are stored
+          target_branch: output
+          build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+  
