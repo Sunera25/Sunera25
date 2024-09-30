@@ -273,12 +273,14 @@ Hello! I'm Sunera, a dedicated web and mobile developer with a passion for creat
 
 ![](https://github-profile-trophy.vercel.app/?username=Sunera25&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
+<br/>
+
+### ✍️ Tech Quotes to Inspire
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🐍 Watch the snake eating my GitHub contributions
-![snake gif](https://github.com/Sunera25/Sunera25/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Sunera25/Sunera25/blob/output/github-snake-dark.svg)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Sunera25&icon=0&color=0)](https://visitcount.itsvg.in)
