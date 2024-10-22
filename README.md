@@ -136,8 +136,8 @@ Hello! I'm Sunera, a dedicated web and mobile developer with a passion for creat
 ### Databases
 <table>
   <tr>
-        <td align="center" width="96">
-      <a href="https://postgresql/">
+    <td align="center" width="96">
+      <a href="https://postgresql.org/">
         <img src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" alt="Postgre" width="50" height="50" />
       </a>
       <br>PostgreSQL
