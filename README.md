@@ -136,6 +136,12 @@ Hello! I'm Sunera, a dedicated web and mobile developer with a passion for creat
 ### Databases
 <table>
   <tr>
+        <td align="center" width="96">
+      <a href="https://postgresql/">
+        <img src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" alt="Postgre" width="50" height="50" />
+      </a>
+      <br>PostgreSQL
+    </td>
     <td align="center" width="96">
       <a href="https://www.mysql.com/">
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
@@ -145,12 +151,6 @@ Hello! I'm Sunera, a dedicated web and mobile developer with a passion for creat
     <td align="center" width="96">
       <a href="https://www.mongodb.com/">
         <img src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="MongoDB" width="50" height="50" />
-      </a>
-      <br>MongoDB
-    </td>
-    <td align="center" width="96">
-      <a href="https://postgresql/">
-        <img src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" alt="Postgre" width="50" height="50" />
       </a>
       <br>MongoDB
     </td>
